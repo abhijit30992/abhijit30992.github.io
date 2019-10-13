@@ -1,3 +1,4 @@
+![alternate text](https://www.jagranjosh.com/imported/images/E/Articles/GATE-2020-Details.jpg)
 # WHY GATE?
 When I was in third year of my engineering studies, I always wondered what to do after engineering. My batch was first so there were no seniors to follow. On the same time I definitely wouldn’t have followed them either. Following people from same standard never made sense to me. At that time I only had one focus and that was to reach out to IITs and explore what is next to IITs.
 
@@ -14,7 +15,7 @@ This is another good reason to prepare for GATE. Even if you don’t want to go 
 ## An Excellent Opportunity To Beat The Best
 You think that your concepts are much better than the topper in class, but still you don’t get good scores in college and university exams because of your worthless teacher. You also think that writing stories and mugging books and giving a same print in answer sheets is not your ball game then you must play this GATE game. This is a completely different ball game where you beat the long runners with trick and practice and the best is computer evaluate you not a teacher who thinks that you are dumb and give marks based on impression you have on him
 
-COPIED FROM [GitHub](https://www.inspirenignite.com/why-to-prepare-for-gate/)
+COPIED FROM https://www.inspirenignite.com/why-to-prepare-for-gate/
 
 
 
